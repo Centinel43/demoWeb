@@ -1,0 +1,37 @@
+body {background-image:url('Sin título.png'); 
+    margin: 50px 50px 50px 50px; 
+    padding: 50px 50px 50px 50px;
+    line-height: 1.4;}
+#cabecera {color: white;
+    background-color: purple; 
+    border: 1.5px solid red; 
+    margin: 50px 600px 50px 50px; 
+    padding: 10px 10px 10px 10px;
+    text-align: center;}
+#menu {background-color: white;
+    border: 1.5px solid red; 
+    margin: 50px 50px 50px 50px; 
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;}
+#contenidos {background-color: white;
+    color: orange;
+    border: 1.5px solid red; 
+    margin: 50px 50px 50px 50px; 
+    padding: 20px 20px 20px 20px;}
+#piepagina {background-color: blueviolet; 
+    color: yellow;
+    border: 1.5px solid red; 
+    margin: 50px 50px 50px 50px; 
+    padding: 10px 10px 10px 10px;}
+.enlacesRecursos { 
+    color: tomato;
+    background-color: yellow;
+    border: 1.5px solid orange;
+    margin: 15px 15px 10px 10px;
+    padding: 7.5px 7.5px 5px 5px;
+    text-decoration: none;}
+ /* Mouse over link */
+ .enlacesRecursos:hover {
+    color: black;
+    background-color: orange;
+    text-decoration: none;}
